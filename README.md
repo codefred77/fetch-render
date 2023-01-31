@@ -1,14 +1,14 @@
 # fetch-render
 Fetch and render data from an API
 
-#Description
+# Description
 Makes use of the Art Institute of Chicago API to search the artwork catalogue.
 
-#Future Improvements
+# Future Improvements
 1) The API has built-in pagination --use it in the future to display more than 10 results
 2) Use the separate IIIF API interface to render an image of the artwork
 
-#License
+# License
 MIT License
 
 Copyright (c) 2022 codefred77
